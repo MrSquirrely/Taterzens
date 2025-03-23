@@ -1,0 +1,2 @@
+- name: Compiling Minecraft Mod
+  uses: RuochenFu21/compilation@v1
